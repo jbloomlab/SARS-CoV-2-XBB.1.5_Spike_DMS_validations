@@ -1,0 +1,19 @@
+# Specify configuration
+
+# neutralization data
+serum_neuts: data/neuts/serum_neuts_batch2_frac_infectivity.csv
+
+# Virus titration
+virus_titers: data/virus_titer_RLU/virus_titers.csv
+
+#DMS escape
+dms_287C: data/dms/sera_287C_mediumACE2_mut_effect.csv
+dms_500C: data/dms/sera_500C_mediumACE2_mut_effect.csv
+dms_501C: data/dms/sera_501C_mediumACE2_mut_effect.csv
+
+# Results
+resultsdir: results/
+summary_dir: results/summary/
+neuts: results/neuts.csv
+
+
