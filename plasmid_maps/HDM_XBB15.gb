@@ -1,7 +1,7 @@
 LOCUS       3813_HDM_pH2rU3_        8297 bp DNA     circular SYN 21-APR-2023
 DEFINITION  This plasmid was created by digesting an HDM plasmid with ecoRI and 
             HindIII and inserting the XBB15 spike (sinobiological) from p3779. 
-            Primordium sequence confirmed by Ariana Farrell.
+            Note this plasmid lacks F490S mutation. 
 ACCESSION   .
 VERSION     .
 KEYWORDS    .
