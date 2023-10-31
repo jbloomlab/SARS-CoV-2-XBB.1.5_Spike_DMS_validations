@@ -8,7 +8,7 @@ Data in this repo includes:
 - Fraction infectivity data for each serum neutralization. At: [data/neuts/serum_neuts_batch2_frac_infectivity.csv](./data/neuts/serum_neuts_batch2_frac_infectivity.csv)
 - DMS escape data taken from [XBB.1.5 library experiments](https://github.com/dms-vep/SARS-CoV-2_XBB.1.5_spike_DMS). At: [data/dms](./data/dms)
 
-[config file][.config.yaml] contains paths to files above. 
+[config file](.config.yaml) contains paths to files above. 
 
 Notebooks in this repo are as follows:
 - Measure rescued luciferase-carrying virus infectivity. Notebook: [virus_titers.ipynb](virus_titers.ipynb).
@@ -20,4 +20,4 @@ Notebooks in this repo are as follows:
 Outputs from each notebook can be found at [results](./results) folder.
 
 
-By Bernadeta DAdonaite
+By Bernadeta Dadonaite
